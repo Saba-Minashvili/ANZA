@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ANZA", "ANZA\ANZA.csproj", "{1866A984-8516-4CD7-BC89-64AC874FC177}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApplicationDomainModels", "ApplicationDomainModels\ApplicationDomainModels.csproj", "{F9F3B817-2CBD-479C-A866-009BC3E76F56}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApplicationDomainEntity", "ApplicationDomainEntity\ApplicationDomainEntity.csproj", "{02A10EF6-3F24-4F6C-A22F-4990D6E68475}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApplicationDomainCore", "ApplicationDomainCore\ApplicationDomainCore.csproj", "{B3A186EE-871A-408B-84F9-DDE0BA9FB062}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApplicationDomainServices", "ApplicationDomainServices\ApplicationDomainServices.csproj", "{CFC5FFE5-D6DC-4101-B290-4BBD805BE3AE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApplicationDomainDtos", "ApplicationDomainDtos\ApplicationDomainDtos.csproj", "{92EAEEAE-61DB-489A-BB5F-0B0E1D6158C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationAuthentication", "ApplicationAuthentication\ApplicationAuthentication.csproj", "{5C95C8CF-3A36-4FB2-8C5C-521040086FE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1866A984-8516-4CD7-BC89-64AC874FC177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1866A984-8516-4CD7-BC89-64AC874FC177}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1866A984-8516-4CD7-BC89-64AC874FC177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1866A984-8516-4CD7-BC89-64AC874FC177}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9F3B817-2CBD-479C-A866-009BC3E76F56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9F3B817-2CBD-479C-A866-009BC3E76F56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9F3B817-2CBD-479C-A866-009BC3E76F56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9F3B817-2CBD-479C-A866-009BC3E76F56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02A10EF6-3F24-4F6C-A22F-4990D6E68475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02A10EF6-3F24-4F6C-A22F-4990D6E68475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02A10EF6-3F24-4F6C-A22F-4990D6E68475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02A10EF6-3F24-4F6C-A22F-4990D6E68475}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3A186EE-871A-408B-84F9-DDE0BA9FB062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3A186EE-871A-408B-84F9-DDE0BA9FB062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3A186EE-871A-408B-84F9-DDE0BA9FB062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3A186EE-871A-408B-84F9-DDE0BA9FB062}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFC5FFE5-D6DC-4101-B290-4BBD805BE3AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC5FFE5-D6DC-4101-B290-4BBD805BE3AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFC5FFE5-D6DC-4101-B290-4BBD805BE3AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFC5FFE5-D6DC-4101-B290-4BBD805BE3AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92EAEEAE-61DB-489A-BB5F-0B0E1D6158C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92EAEEAE-61DB-489A-BB5F-0B0E1D6158C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92EAEEAE-61DB-489A-BB5F-0B0E1D6158C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92EAEEAE-61DB-489A-BB5F-0B0E1D6158C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C95C8CF-3A36-4FB2-8C5C-521040086FE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C95C8CF-3A36-4FB2-8C5C-521040086FE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C95C8CF-3A36-4FB2-8C5C-521040086FE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C95C8CF-3A36-4FB2-8C5C-521040086FE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2ECC0C70-270D-41DF-B386-327CD69EF8CE}
+	EndGlobalSection
+EndGlobal

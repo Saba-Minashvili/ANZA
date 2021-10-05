@@ -1,0 +1,170 @@
+C:\Users\sabam\Desktop\ANZA\ANZA\obj\Debug\netcoreapp3.1\ANZA.csproj.AssemblyReference.cache
+C:\Users\sabam\Desktop\ANZA\ANZA\obj\Debug\netcoreapp3.1\ANZA.AssemblyInfoInputs.cache
+C:\Users\sabam\Desktop\ANZA\ANZA\obj\Debug\netcoreapp3.1\ANZA.AssemblyInfo.cs
+C:\Users\sabam\Desktop\ANZA\ANZA\obj\Debug\netcoreapp3.1\ANZA.csproj.CoreCompileInputs.cache
+C:\Users\sabam\Desktop\ANZA\ANZA\obj\Debug\netcoreapp3.1\ANZA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\ANZA.exe
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\ANZA.deps.json
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\ANZA.runtimeconfig.json
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\ANZA.runtimeconfig.dev.json
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\ANZA.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\ANZA.pdb
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\AutoMapper.Collection.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\ApplicationAuthentication.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\ApplicationDomainCore.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\ApplicationDomainDtos.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\ApplicationDomainEntity.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\ApplicationDomainModels.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\ApplicationDomainServices.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\ApplicationAuthentication.pdb
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\ApplicationDomainCore.pdb
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\ApplicationDomainEntity.pdb
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\ApplicationDomainModels.pdb
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\ApplicationDomainServices.pdb
+C:\Users\sabam\Desktop\ANZA\ANZA\bin\Debug\netcoreapp3.1\ApplicationDomainDtos.pdb
+C:\Users\sabam\Desktop\ANZA\ANZA\obj\Debug\netcoreapp3.1\staticwebassets\ANZA.StaticWebAssets.Manifest.cache
+C:\Users\sabam\Desktop\ANZA\ANZA\obj\Debug\netcoreapp3.1\staticwebassets\ANZA.StaticWebAssets.xml
+C:\Users\sabam\Desktop\ANZA\ANZA\obj\Debug\netcoreapp3.1\scopedcss\bundle\ANZA.styles.css
+C:\Users\sabam\Desktop\ANZA\ANZA\obj\Debug\netcoreapp3.1\ANZA.RazorTargetAssemblyInfo.cache
+C:\Users\sabam\Desktop\ANZA\ANZA\obj\Debug\netcoreapp3.1\ANZA.csproj.CopyComplete
+C:\Users\sabam\Desktop\ANZA\ANZA\obj\Debug\netcoreapp3.1\ANZA.dll
+C:\Users\sabam\Desktop\ANZA\ANZA\obj\Debug\netcoreapp3.1\ANZA.pdb
+C:\Users\sabam\Desktop\ANZA\ANZA\obj\Debug\netcoreapp3.1\ANZA.genruntimeconfig.cache
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\ANZA.exe
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\ANZA.deps.json
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\ANZA.runtimeconfig.json
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\ANZA.runtimeconfig.dev.json
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\ANZA.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\ANZA.pdb
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\AutoMapper.Collection.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\CloudinaryDotNet.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\Microsoft.Extensions.WebEncoders.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\ApplicationAuthentication.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\ApplicationDomainCore.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\ApplicationDomainDtos.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\ApplicationDomainEntity.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\ApplicationDomainModels.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\ApplicationDomainServices.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\ApplicationAuthentication.pdb
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\ApplicationDomainCore.pdb
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\ApplicationDomainEntity.pdb
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\ApplicationDomainModels.pdb
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\ApplicationDomainServices.pdb
+C:\Users\sabam\Desktop\ANZA App\ANZA\bin\Debug\netcoreapp3.1\ApplicationDomainDtos.pdb
+C:\Users\sabam\Desktop\ANZA App\ANZA\obj\Debug\netcoreapp3.1\ANZA.csproj.AssemblyReference.cache
+C:\Users\sabam\Desktop\ANZA App\ANZA\obj\Debug\netcoreapp3.1\ANZA.AssemblyInfoInputs.cache
+C:\Users\sabam\Desktop\ANZA App\ANZA\obj\Debug\netcoreapp3.1\ANZA.AssemblyInfo.cs
+C:\Users\sabam\Desktop\ANZA App\ANZA\obj\Debug\netcoreapp3.1\ANZA.csproj.CoreCompileInputs.cache
+C:\Users\sabam\Desktop\ANZA App\ANZA\obj\Debug\netcoreapp3.1\ANZA.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sabam\Desktop\ANZA App\ANZA\obj\Debug\netcoreapp3.1\ANZA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sabam\Desktop\ANZA App\ANZA\obj\Debug\netcoreapp3.1\staticwebassets\ANZA.StaticWebAssets.Manifest.cache
+C:\Users\sabam\Desktop\ANZA App\ANZA\obj\Debug\netcoreapp3.1\staticwebassets\ANZA.StaticWebAssets.xml
+C:\Users\sabam\Desktop\ANZA App\ANZA\obj\Debug\netcoreapp3.1\scopedcss\bundle\ANZA.styles.css
+C:\Users\sabam\Desktop\ANZA App\ANZA\obj\Debug\netcoreapp3.1\ANZA.RazorTargetAssemblyInfo.cache
+C:\Users\sabam\Desktop\ANZA App\ANZA\obj\Debug\netcoreapp3.1\ANZA.csproj.CopyComplete
+C:\Users\sabam\Desktop\ANZA App\ANZA\obj\Debug\netcoreapp3.1\ANZA.dll
+C:\Users\sabam\Desktop\ANZA App\ANZA\obj\Debug\netcoreapp3.1\ANZA.pdb
+C:\Users\sabam\Desktop\ANZA App\ANZA\obj\Debug\netcoreapp3.1\ANZA.genruntimeconfig.cache

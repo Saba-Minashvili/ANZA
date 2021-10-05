@@ -1,0 +1,36 @@
+C:\Users\sabam\Desktop\ANZA\ApplicationAuthentication\bin\Debug\netcoreapp3.1\ApplicationAuthentication.deps.json
+C:\Users\sabam\Desktop\ANZA\ApplicationAuthentication\bin\Debug\netcoreapp3.1\ApplicationAuthentication.dll
+C:\Users\sabam\Desktop\ANZA\ApplicationAuthentication\bin\Debug\netcoreapp3.1\ApplicationAuthentication.pdb
+C:\Users\sabam\Desktop\ANZA\ApplicationAuthentication\bin\Debug\netcoreapp3.1\ApplicationDomainCore.dll
+C:\Users\sabam\Desktop\ANZA\ApplicationAuthentication\bin\Debug\netcoreapp3.1\ApplicationDomainDtos.dll
+C:\Users\sabam\Desktop\ANZA\ApplicationAuthentication\bin\Debug\netcoreapp3.1\ApplicationDomainEntity.dll
+C:\Users\sabam\Desktop\ANZA\ApplicationAuthentication\bin\Debug\netcoreapp3.1\ApplicationDomainModels.dll
+C:\Users\sabam\Desktop\ANZA\ApplicationAuthentication\bin\Debug\netcoreapp3.1\ApplicationDomainCore.pdb
+C:\Users\sabam\Desktop\ANZA\ApplicationAuthentication\bin\Debug\netcoreapp3.1\ApplicationDomainDtos.pdb
+C:\Users\sabam\Desktop\ANZA\ApplicationAuthentication\bin\Debug\netcoreapp3.1\ApplicationDomainEntity.pdb
+C:\Users\sabam\Desktop\ANZA\ApplicationAuthentication\bin\Debug\netcoreapp3.1\ApplicationDomainModels.pdb
+C:\Users\sabam\Desktop\ANZA\ApplicationAuthentication\obj\Debug\netcoreapp3.1\ApplicationAuthentication.csproj.AssemblyReference.cache
+C:\Users\sabam\Desktop\ANZA\ApplicationAuthentication\obj\Debug\netcoreapp3.1\ApplicationAuthentication.AssemblyInfoInputs.cache
+C:\Users\sabam\Desktop\ANZA\ApplicationAuthentication\obj\Debug\netcoreapp3.1\ApplicationAuthentication.AssemblyInfo.cs
+C:\Users\sabam\Desktop\ANZA\ApplicationAuthentication\obj\Debug\netcoreapp3.1\ApplicationAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\sabam\Desktop\ANZA\ApplicationAuthentication\obj\Debug\netcoreapp3.1\ApplicationAuthentication.csproj.CopyComplete
+C:\Users\sabam\Desktop\ANZA\ApplicationAuthentication\obj\Debug\netcoreapp3.1\ApplicationAuthentication.dll
+C:\Users\sabam\Desktop\ANZA\ApplicationAuthentication\obj\Debug\netcoreapp3.1\ApplicationAuthentication.pdb
+C:\Users\sabam\Desktop\ANZA App\ApplicationAuthentication\bin\Debug\netcoreapp3.1\ApplicationAuthentication.deps.json
+C:\Users\sabam\Desktop\ANZA App\ApplicationAuthentication\bin\Debug\netcoreapp3.1\ApplicationAuthentication.dll
+C:\Users\sabam\Desktop\ANZA App\ApplicationAuthentication\bin\Debug\netcoreapp3.1\ApplicationAuthentication.pdb
+C:\Users\sabam\Desktop\ANZA App\ApplicationAuthentication\bin\Debug\netcoreapp3.1\ApplicationDomainCore.dll
+C:\Users\sabam\Desktop\ANZA App\ApplicationAuthentication\bin\Debug\netcoreapp3.1\ApplicationDomainDtos.dll
+C:\Users\sabam\Desktop\ANZA App\ApplicationAuthentication\bin\Debug\netcoreapp3.1\ApplicationDomainEntity.dll
+C:\Users\sabam\Desktop\ANZA App\ApplicationAuthentication\bin\Debug\netcoreapp3.1\ApplicationDomainModels.dll
+C:\Users\sabam\Desktop\ANZA App\ApplicationAuthentication\bin\Debug\netcoreapp3.1\ApplicationDomainCore.pdb
+C:\Users\sabam\Desktop\ANZA App\ApplicationAuthentication\bin\Debug\netcoreapp3.1\ApplicationDomainDtos.pdb
+C:\Users\sabam\Desktop\ANZA App\ApplicationAuthentication\bin\Debug\netcoreapp3.1\ApplicationDomainEntity.pdb
+C:\Users\sabam\Desktop\ANZA App\ApplicationAuthentication\bin\Debug\netcoreapp3.1\ApplicationDomainModels.pdb
+C:\Users\sabam\Desktop\ANZA App\ApplicationAuthentication\obj\Debug\netcoreapp3.1\ApplicationAuthentication.csproj.AssemblyReference.cache
+C:\Users\sabam\Desktop\ANZA App\ApplicationAuthentication\obj\Debug\netcoreapp3.1\ApplicationAuthentication.AssemblyInfoInputs.cache
+C:\Users\sabam\Desktop\ANZA App\ApplicationAuthentication\obj\Debug\netcoreapp3.1\ApplicationAuthentication.AssemblyInfo.cs
+C:\Users\sabam\Desktop\ANZA App\ApplicationAuthentication\obj\Debug\netcoreapp3.1\ApplicationAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\sabam\Desktop\ANZA App\ApplicationAuthentication\obj\Debug\netcoreapp3.1\ApplicationAuthentication.csproj.CopyComplete
+C:\Users\sabam\Desktop\ANZA App\ApplicationAuthentication\obj\Debug\netcoreapp3.1\ApplicationAuthentication.dll
+C:\Users\sabam\Desktop\ANZA App\ApplicationAuthentication\obj\Debug\netcoreapp3.1\ApplicationAuthentication.pdb

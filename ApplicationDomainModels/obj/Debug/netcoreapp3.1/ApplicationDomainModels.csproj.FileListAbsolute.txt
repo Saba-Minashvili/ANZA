@@ -1,0 +1,18 @@
+C:\Users\sabam\Desktop\ANZA\ApplicationDomainModels\bin\Debug\netcoreapp3.1\ApplicationDomainModels.deps.json
+C:\Users\sabam\Desktop\ANZA\ApplicationDomainModels\bin\Debug\netcoreapp3.1\ApplicationDomainModels.dll
+C:\Users\sabam\Desktop\ANZA\ApplicationDomainModels\bin\Debug\netcoreapp3.1\ApplicationDomainModels.pdb
+C:\Users\sabam\Desktop\ANZA\ApplicationDomainModels\obj\Debug\netcoreapp3.1\ApplicationDomainModels.csproj.AssemblyReference.cache
+C:\Users\sabam\Desktop\ANZA\ApplicationDomainModels\obj\Debug\netcoreapp3.1\ApplicationDomainModels.AssemblyInfoInputs.cache
+C:\Users\sabam\Desktop\ANZA\ApplicationDomainModels\obj\Debug\netcoreapp3.1\ApplicationDomainModels.AssemblyInfo.cs
+C:\Users\sabam\Desktop\ANZA\ApplicationDomainModels\obj\Debug\netcoreapp3.1\ApplicationDomainModels.csproj.CoreCompileInputs.cache
+C:\Users\sabam\Desktop\ANZA\ApplicationDomainModels\obj\Debug\netcoreapp3.1\ApplicationDomainModels.dll
+C:\Users\sabam\Desktop\ANZA\ApplicationDomainModels\obj\Debug\netcoreapp3.1\ApplicationDomainModels.pdb
+C:\Users\sabam\Desktop\ANZA App\ApplicationDomainModels\bin\Debug\netcoreapp3.1\ApplicationDomainModels.deps.json
+C:\Users\sabam\Desktop\ANZA App\ApplicationDomainModels\bin\Debug\netcoreapp3.1\ApplicationDomainModels.dll
+C:\Users\sabam\Desktop\ANZA App\ApplicationDomainModels\bin\Debug\netcoreapp3.1\ApplicationDomainModels.pdb
+C:\Users\sabam\Desktop\ANZA App\ApplicationDomainModels\obj\Debug\netcoreapp3.1\ApplicationDomainModels.csproj.AssemblyReference.cache
+C:\Users\sabam\Desktop\ANZA App\ApplicationDomainModels\obj\Debug\netcoreapp3.1\ApplicationDomainModels.AssemblyInfoInputs.cache
+C:\Users\sabam\Desktop\ANZA App\ApplicationDomainModels\obj\Debug\netcoreapp3.1\ApplicationDomainModels.AssemblyInfo.cs
+C:\Users\sabam\Desktop\ANZA App\ApplicationDomainModels\obj\Debug\netcoreapp3.1\ApplicationDomainModels.csproj.CoreCompileInputs.cache
+C:\Users\sabam\Desktop\ANZA App\ApplicationDomainModels\obj\Debug\netcoreapp3.1\ApplicationDomainModels.dll
+C:\Users\sabam\Desktop\ANZA App\ApplicationDomainModels\obj\Debug\netcoreapp3.1\ApplicationDomainModels.pdb

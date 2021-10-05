@@ -1,0 +1,28 @@
+C:\Users\sabam\Desktop\ANZA\ApplicationDomainCore\bin\Debug\netcoreapp3.1\ApplicationDomainCore.deps.json
+C:\Users\sabam\Desktop\ANZA\ApplicationDomainCore\bin\Debug\netcoreapp3.1\ApplicationDomainCore.dll
+C:\Users\sabam\Desktop\ANZA\ApplicationDomainCore\bin\Debug\netcoreapp3.1\ApplicationDomainCore.pdb
+C:\Users\sabam\Desktop\ANZA\ApplicationDomainCore\bin\Debug\netcoreapp3.1\ApplicationDomainEntity.dll
+C:\Users\sabam\Desktop\ANZA\ApplicationDomainCore\bin\Debug\netcoreapp3.1\ApplicationDomainModels.dll
+C:\Users\sabam\Desktop\ANZA\ApplicationDomainCore\bin\Debug\netcoreapp3.1\ApplicationDomainEntity.pdb
+C:\Users\sabam\Desktop\ANZA\ApplicationDomainCore\bin\Debug\netcoreapp3.1\ApplicationDomainModels.pdb
+C:\Users\sabam\Desktop\ANZA\ApplicationDomainCore\obj\Debug\netcoreapp3.1\ApplicationDomainCore.csproj.AssemblyReference.cache
+C:\Users\sabam\Desktop\ANZA\ApplicationDomainCore\obj\Debug\netcoreapp3.1\ApplicationDomainCore.AssemblyInfoInputs.cache
+C:\Users\sabam\Desktop\ANZA\ApplicationDomainCore\obj\Debug\netcoreapp3.1\ApplicationDomainCore.AssemblyInfo.cs
+C:\Users\sabam\Desktop\ANZA\ApplicationDomainCore\obj\Debug\netcoreapp3.1\ApplicationDomainCore.csproj.CoreCompileInputs.cache
+C:\Users\sabam\Desktop\ANZA\ApplicationDomainCore\obj\Debug\netcoreapp3.1\ApplicationDomainCore.csproj.CopyComplete
+C:\Users\sabam\Desktop\ANZA\ApplicationDomainCore\obj\Debug\netcoreapp3.1\ApplicationDomainCore.dll
+C:\Users\sabam\Desktop\ANZA\ApplicationDomainCore\obj\Debug\netcoreapp3.1\ApplicationDomainCore.pdb
+C:\Users\sabam\Desktop\ANZA App\ApplicationDomainCore\bin\Debug\netcoreapp3.1\ApplicationDomainCore.deps.json
+C:\Users\sabam\Desktop\ANZA App\ApplicationDomainCore\bin\Debug\netcoreapp3.1\ApplicationDomainCore.dll
+C:\Users\sabam\Desktop\ANZA App\ApplicationDomainCore\bin\Debug\netcoreapp3.1\ApplicationDomainCore.pdb
+C:\Users\sabam\Desktop\ANZA App\ApplicationDomainCore\bin\Debug\netcoreapp3.1\ApplicationDomainEntity.dll
+C:\Users\sabam\Desktop\ANZA App\ApplicationDomainCore\bin\Debug\netcoreapp3.1\ApplicationDomainModels.dll
+C:\Users\sabam\Desktop\ANZA App\ApplicationDomainCore\bin\Debug\netcoreapp3.1\ApplicationDomainEntity.pdb
+C:\Users\sabam\Desktop\ANZA App\ApplicationDomainCore\bin\Debug\netcoreapp3.1\ApplicationDomainModels.pdb
+C:\Users\sabam\Desktop\ANZA App\ApplicationDomainCore\obj\Debug\netcoreapp3.1\ApplicationDomainCore.csproj.AssemblyReference.cache
+C:\Users\sabam\Desktop\ANZA App\ApplicationDomainCore\obj\Debug\netcoreapp3.1\ApplicationDomainCore.AssemblyInfoInputs.cache
+C:\Users\sabam\Desktop\ANZA App\ApplicationDomainCore\obj\Debug\netcoreapp3.1\ApplicationDomainCore.AssemblyInfo.cs
+C:\Users\sabam\Desktop\ANZA App\ApplicationDomainCore\obj\Debug\netcoreapp3.1\ApplicationDomainCore.csproj.CoreCompileInputs.cache
+C:\Users\sabam\Desktop\ANZA App\ApplicationDomainCore\obj\Debug\netcoreapp3.1\ApplicationDomainCore.csproj.CopyComplete
+C:\Users\sabam\Desktop\ANZA App\ApplicationDomainCore\obj\Debug\netcoreapp3.1\ApplicationDomainCore.dll
+C:\Users\sabam\Desktop\ANZA App\ApplicationDomainCore\obj\Debug\netcoreapp3.1\ApplicationDomainCore.pdb

@@ -1,0 +1,36 @@
+C:\Users\sabam\Desktop\ANZA\ApplicationDomainServices\obj\Debug\netcoreapp3.1\ApplicationDomainServices.csproj.AssemblyReference.cache
+C:\Users\sabam\Desktop\ANZA\ApplicationDomainServices\obj\Debug\netcoreapp3.1\ApplicationDomainServices.AssemblyInfoInputs.cache
+C:\Users\sabam\Desktop\ANZA\ApplicationDomainServices\obj\Debug\netcoreapp3.1\ApplicationDomainServices.AssemblyInfo.cs
+C:\Users\sabam\Desktop\ANZA\ApplicationDomainServices\obj\Debug\netcoreapp3.1\ApplicationDomainServices.csproj.CoreCompileInputs.cache
+C:\Users\sabam\Desktop\ANZA\ApplicationDomainServices\bin\Debug\netcoreapp3.1\ApplicationDomainServices.deps.json
+C:\Users\sabam\Desktop\ANZA\ApplicationDomainServices\bin\Debug\netcoreapp3.1\ApplicationDomainServices.dll
+C:\Users\sabam\Desktop\ANZA\ApplicationDomainServices\bin\Debug\netcoreapp3.1\ApplicationDomainServices.pdb
+C:\Users\sabam\Desktop\ANZA\ApplicationDomainServices\bin\Debug\netcoreapp3.1\ApplicationDomainCore.dll
+C:\Users\sabam\Desktop\ANZA\ApplicationDomainServices\bin\Debug\netcoreapp3.1\ApplicationDomainDtos.dll
+C:\Users\sabam\Desktop\ANZA\ApplicationDomainServices\bin\Debug\netcoreapp3.1\ApplicationDomainEntity.dll
+C:\Users\sabam\Desktop\ANZA\ApplicationDomainServices\bin\Debug\netcoreapp3.1\ApplicationDomainModels.dll
+C:\Users\sabam\Desktop\ANZA\ApplicationDomainServices\bin\Debug\netcoreapp3.1\ApplicationDomainCore.pdb
+C:\Users\sabam\Desktop\ANZA\ApplicationDomainServices\bin\Debug\netcoreapp3.1\ApplicationDomainDtos.pdb
+C:\Users\sabam\Desktop\ANZA\ApplicationDomainServices\bin\Debug\netcoreapp3.1\ApplicationDomainModels.pdb
+C:\Users\sabam\Desktop\ANZA\ApplicationDomainServices\bin\Debug\netcoreapp3.1\ApplicationDomainEntity.pdb
+C:\Users\sabam\Desktop\ANZA\ApplicationDomainServices\obj\Debug\netcoreapp3.1\ApplicationDomainServices.csproj.CopyComplete
+C:\Users\sabam\Desktop\ANZA\ApplicationDomainServices\obj\Debug\netcoreapp3.1\ApplicationDomainServices.dll
+C:\Users\sabam\Desktop\ANZA\ApplicationDomainServices\obj\Debug\netcoreapp3.1\ApplicationDomainServices.pdb
+C:\Users\sabam\Desktop\ANZA App\ApplicationDomainServices\bin\Debug\netcoreapp3.1\ApplicationDomainServices.deps.json
+C:\Users\sabam\Desktop\ANZA App\ApplicationDomainServices\bin\Debug\netcoreapp3.1\ApplicationDomainServices.dll
+C:\Users\sabam\Desktop\ANZA App\ApplicationDomainServices\bin\Debug\netcoreapp3.1\ApplicationDomainServices.pdb
+C:\Users\sabam\Desktop\ANZA App\ApplicationDomainServices\bin\Debug\netcoreapp3.1\ApplicationDomainCore.dll
+C:\Users\sabam\Desktop\ANZA App\ApplicationDomainServices\bin\Debug\netcoreapp3.1\ApplicationDomainDtos.dll
+C:\Users\sabam\Desktop\ANZA App\ApplicationDomainServices\bin\Debug\netcoreapp3.1\ApplicationDomainEntity.dll
+C:\Users\sabam\Desktop\ANZA App\ApplicationDomainServices\bin\Debug\netcoreapp3.1\ApplicationDomainModels.dll
+C:\Users\sabam\Desktop\ANZA App\ApplicationDomainServices\bin\Debug\netcoreapp3.1\ApplicationDomainCore.pdb
+C:\Users\sabam\Desktop\ANZA App\ApplicationDomainServices\bin\Debug\netcoreapp3.1\ApplicationDomainDtos.pdb
+C:\Users\sabam\Desktop\ANZA App\ApplicationDomainServices\bin\Debug\netcoreapp3.1\ApplicationDomainModels.pdb
+C:\Users\sabam\Desktop\ANZA App\ApplicationDomainServices\bin\Debug\netcoreapp3.1\ApplicationDomainEntity.pdb
+C:\Users\sabam\Desktop\ANZA App\ApplicationDomainServices\obj\Debug\netcoreapp3.1\ApplicationDomainServices.csproj.AssemblyReference.cache
+C:\Users\sabam\Desktop\ANZA App\ApplicationDomainServices\obj\Debug\netcoreapp3.1\ApplicationDomainServices.AssemblyInfoInputs.cache
+C:\Users\sabam\Desktop\ANZA App\ApplicationDomainServices\obj\Debug\netcoreapp3.1\ApplicationDomainServices.AssemblyInfo.cs
+C:\Users\sabam\Desktop\ANZA App\ApplicationDomainServices\obj\Debug\netcoreapp3.1\ApplicationDomainServices.csproj.CoreCompileInputs.cache
+C:\Users\sabam\Desktop\ANZA App\ApplicationDomainServices\obj\Debug\netcoreapp3.1\ApplicationDomainServices.csproj.CopyComplete
+C:\Users\sabam\Desktop\ANZA App\ApplicationDomainServices\obj\Debug\netcoreapp3.1\ApplicationDomainServices.dll
+C:\Users\sabam\Desktop\ANZA App\ApplicationDomainServices\obj\Debug\netcoreapp3.1\ApplicationDomainServices.pdb
